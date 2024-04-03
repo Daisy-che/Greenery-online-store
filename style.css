@@ -1,0 +1,108 @@
+.navabar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plant{
+    display: flex;
+    margin: 10%;
+}
+.pic{
+    display: flex;
+    gap: 10px;
+}
+.flower{
+   display: flex;
+   margin-left: 10%;
+
+}
+.sale{
+    display: flex;
+}
+.blom{
+    display: flex;
+}
+.dis{
+    display: flex;
+}
+.mom{
+    display: flex;
+    margin-left: 10%;
+}
+.sal{
+    display: flex;
+    margin-left: 10%;
+    gap: 50px;
+}
+.Auc{
+    display: flex;
+    gap: 20px;
+}
+.gap{
+    display: flex;
+}
+.enim{
+    display: flex;
+    margin-left: 10%;
+}
+.product{
+    text-align: center;
+}
+.omo{
+    display: flex;
+    margin-left:10% ;
+    gap: 10px;
+}
+.car{
+    text-align: center;
+}
+.spring{
+    margin: 10%;
+}
+.lobo{
+    display: flex;
+    margin-left: 10%;
+}
+.grap{
+    display: flex;
+    margin-left: 10%;
+}
+.dolo{
+    display: flex;
+    margin-left: 10%;
+}
+.nut{
+    display: flex;
+    margin-left:10% ;
+    gap: 20px;
+}
+.blog{
+    margin: 10%;
+}
+.two{
+    display: flex;
+    margin-left: 10%;
+    gap: 20px;
+}
+.love{
+    text-align: center;
+}
+.meta{
+    margin-left: 10%;
+    gap: 100px;
+    
+}
+.color{
+    text-align: center;
+}
+.quick{
+    display: flex;
+    margin-left: 10%;
+    gap: 30px;
+}
+.bob{
+    overflow-x: hidden;
+    margin: 0;
+}
+
+
