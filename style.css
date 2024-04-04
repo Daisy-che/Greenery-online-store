@@ -2,6 +2,9 @@
     display: flex;
     justify-content: space-between;
 }
+.web{
+    width: 580px;
+}
 
 .plant{
     display: flex;
@@ -104,5 +107,144 @@
     overflow-x: hidden;
     margin: 0;
 }
+@media screen and (min-width:280px) and (max-width:500px){
+    .navabar{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .web{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        width: 50px;
+    }
+    
+    .plant{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .pic{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    
+        
+    }
+    .flower{
+       flex-wrap: wrap;
+       grid-template-columns: auto;
+       margin-left: 10%;
+    
+    }
+    .sale{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .blom{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .dis{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .mom{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .sal{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+        gap: 50px;
+    }
+    .Auc{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        gap: 20px;
+    }
+    .gap{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .enim{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+    }
+    .product{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+    }
+    .omo{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left:10% ;
+        gap: 10px;
+    }
+    .car{
+        flex-wrap: wrap;
 
-
+    }
+    .spring{
+        margin: 10%;
+    }
+    .lobo{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+    }
+    .grap{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+    }
+    .dolo{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+    }
+    .nut{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left:10% ;
+        gap: 20px;
+    }
+    .blog{
+        margin: 10%;
+    }
+    .two{
+        flex-wrap: wrap;
+        grid-template-columns: auto;
+        margin-left: 10%;
+        gap: 20px;
+    }
+    .love{
+        text-align: center;
+    }
+    .meta{
+        margin-left: 10%;
+        gap: 100px;
+        
+    }
+    .color{
+        text-align: center;
+    }
+    .quick{
+        flex-wrap: wrap;
+        margin-left: 10%;
+        gap: 30px;
+    }
+    .bob{
+        overflow-x: hidden;
+        margin: 0;
+    } 
+    .web{
+        width: 100px;
+    }
+    .cap{
+        width: 100px;
+    }
+    .img2{
+        width: 100px;
+    }
+}
+   
