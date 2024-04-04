@@ -17,6 +17,7 @@
 .flower{
    display: flex;
    margin-left: 10%;
+   gap: 10px;
 
 }
 .sale{
@@ -61,18 +62,22 @@
 }
 .spring{
     margin: 10%;
+    gap: 20px;
 }
 .lobo{
     display: flex;
     margin-left: 10%;
+    gap: 20px;
 }
 .grap{
     display: flex;
     margin-left: 10%;
+    gap: 20px;
 }
 .dolo{
     display: flex;
     margin-left: 10%;
+    gap: 20px;
 }
 .nut{
     display: flex;
@@ -106,6 +111,7 @@
 .bob{
     overflow-x: hidden;
     margin: 0;
+    font-size: large;
 }
 @media screen and (min-width:280px) and (max-width:500px){
     .navabar{
